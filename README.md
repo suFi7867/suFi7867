@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **noorani786.ss@gmail.com**
 
-- 📄 Know about my experiences [Click Here for Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
