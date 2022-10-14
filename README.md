@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sufiyan Shaikh</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+![MasterHead](https://i.ibb.co/vPRnbDG/suFiSSS.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi7867&label=Profile%20views&color=0e75b6&style=flat" alt="sufi7867" /> </p>
 
