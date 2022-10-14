@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Clone of Bewakoof.com](https://bewakoof-clone-sufi.vercel.app/)
 
 - 🌱 I’m currently learning **MERN STACK**
-
+<img align="right" alt='Coding' width="400" src='https://jusmarktech.com/public/a/images/pages/web_development.gif'>
 - 👨‍💻 All of my projects are available at [https://github.com/suFi7867](https://github.com/suFi7867)
 
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS**
@@ -15,6 +15,7 @@
 - 📫 How to reach me **noorani786.ss@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +27,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyo38vkiiy_gk9xf58q9ukg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyo38vkiiy_gk9xf58q9ukg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/noorani786_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noorani786_ss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sufi7867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sufi7867" height="30" width="40" /></a>
-<img align="right" alt='Coding' width="400" src='https://jusmarktech.com/public/a/images/pages/web_development.gif'>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,10 +42,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufi7867" alt="sufi7867" /></a> </p>
 
+<br />
+🛠 Current Stats:
 
+| ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufi7867&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufi7867&theme=dark) |
+| :---: | :---: |
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&layout=compact" alt="sufi7867" /></p>
+<br /><br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufi7867&show_icons=true&locale=en" alt="sufi7867" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufi7867&" alt="sufi7867" /></p>
 
