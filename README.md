@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 <img align="right" alt='Coding' width="400" src='https://jusmarktech.com/public/a/images/pages/web_development.gif'>
+
 - 👨‍💻 All of my projects are available at [https://github.com/suFi7867](https://github.com/suFi7867)
 
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS**
