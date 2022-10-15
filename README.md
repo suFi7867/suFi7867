@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.ibb.co/QbD3ZNF/sufissdasd.jpg)
+
 <img src="https://i.ibb.co/QbD3ZNF/sufissdasd.jpg" alt="babel" width="1200px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi7867&label=Profile%20views&color=0e75b6&style=flat" alt="sufi7867" /> </p>
 
