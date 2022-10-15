@@ -1,6 +1,6 @@
 
 
-<img src="https://i.ibb.co/QbD3ZNF/sufissdasd.jpg" alt="babel" width="1200px" />
+<img src="https://i.ibb.co/QbD3ZNF/sufissdasd.jpg" alt="babel" width="1210px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi7867&label=Profile%20views&color=0e75b6&style=flat" alt="sufi7867" /> </p>
 
 - 🔭 I’m currently working on [Clone of Bewakoof.com](https://bewakoof-clone-sufi.vercel.app/)
