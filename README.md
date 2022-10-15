@@ -37,8 +37,7 @@
 
 | ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufi7867&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufi7867&theme=dark) |
 | :---: | :---: |
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&layout=compact" alt="sufi7867" /></p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufi7867" alt="sufi7867" /></a> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&layout=compact" alt="sufi7867" /></p>
 <br /><br />
 
 
