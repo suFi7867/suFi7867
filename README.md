@@ -14,8 +14,9 @@
 
 - 📫 How to reach me **noorani786.ss@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ObRKDd1jIbC0B2LB4QxLU7KUIAkLE-N4/view?usp=sharing)
+- 📄 Check [Resume](https://drive.google.com/file/d/1ObRKDd1jIbC0B2LB4QxLU7KUIAkLE-N4/view?usp=sharing)
 
+- 📄 Know more about me and my work [Portfolio](https://sufi7867.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
