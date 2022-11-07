@@ -71,22 +71,21 @@
 
  ![sufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufi7867&show_icons=true&locale=en&theme=tokyonight) | ![sufi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suFi7867&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
 | :---: | :---: |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&theme=tokyonight" alt="sufi7867" /></p>
-<br /><br />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sufi7867&theme=github" height ="307"/>
+  
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&theme=tokyonight" />
+  </a>
 
 </p>
+
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/suFi7867/Git-Stats/actions_branch/generated_images/languagesDarkMode.svg" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
+
 </p>
 
-<br/><br/>
-
-##
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sufi7867&theme=github" height ="307"/>
 
 
