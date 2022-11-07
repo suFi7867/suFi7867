@@ -73,8 +73,9 @@
 | :---: | :---: |
   
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi7867&show_icons=true&locale=en&theme=tokyonight" />
+
+    <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suFi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 
 </p>
