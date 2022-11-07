@@ -1,7 +1,18 @@
 
 
 <img src="https://i.ibb.co/QbD3ZNF/sufissdasd.jpg" alt="babel" width="1210px" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi7867&label=Profile%20views&color=0e75b6&style=flat" alt="sufi7867" /> </p>
+
+<div align="left" width="150">
+  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
+</div>
+
+
+
+<div align="left">
+   <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square" alt="suFi7867" />
+   </a>
+</div>
 
 - 🔭 I’m currently working on [Clone of Bewakoof.com](https://bewakoof-clone-sufi.vercel.app/)
 
@@ -49,21 +60,10 @@
   <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br />
+
 <h2 align='center'>📊 My Github Stats</h2>
 
-<div align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>
 
-
-
-<div align="center">
-   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square" alt="suFi7867" />
-   </a>
-</div>
-
-<br />
 
 <p align="center">
  
@@ -86,6 +86,9 @@
   </a>
 
 </p>
+
+
+
 
 
 
