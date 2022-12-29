@@ -14,7 +14,6 @@
    </a>
 </div>
 
-- 🔭 I’m currently working on [Clone of Bewakoof.com](https://bewakoof-clone-sufi.vercel.app/)
 
 - 🌱 I’m currently learning **MERN STACK**
 
