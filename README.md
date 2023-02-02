@@ -26,7 +26,7 @@
 
 - 📄 Check [Resume](https://drive.google.com/file/d/15GrgUu3rjJfm7tyJ1E5ghzfL4fJ3xdnl/view)
 
-- 📄 Know more about me and my work [Portfolio](https://sufi7867.github.io/)
+- 📄 Know more about me and my work [Portfolio](https://sufi.vercel.app/)
 
 
 
