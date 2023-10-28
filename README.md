@@ -22,11 +22,7 @@
 
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS**
 
-- 📫 How to reach me **noorani786.ss@gmail.com**
-
-- 📄 Check [Resume](https://drive.google.com/file/d/15GrgUu3rjJfm7tyJ1E5ghzfL4fJ3xdnl/view)
-
-- 📄 Know more about me and my work [Portfolio](https://sufi.vercel.app/)
+- 📫 How to reach me **sufiyan.shaikh.developer@gmail.com**
 
 
 
